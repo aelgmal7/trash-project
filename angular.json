@@ -27,6 +27,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -94,6 +95,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -102,5 +104,8 @@
       }
     }
   },
-  "defaultProject": "trash-project"
+  "defaultProject": "trash-project",
+  "cli": {
+    "analytics": "35a5c7b0-7acf-4856-871d-b515745e9e19"
+  }
 }
